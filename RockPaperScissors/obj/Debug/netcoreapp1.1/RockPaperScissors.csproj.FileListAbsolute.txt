@@ -1,0 +1,7 @@
+/Users/Guest/Desktop/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/netcoreapp1.1/RockPaperScissors.deps.json
+/Users/Guest/Desktop/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/netcoreapp1.1/RockPaperScissors.dll
+/Users/Guest/Desktop/RockPaperScissors.Solution/RockPaperScissors/bin/Debug/netcoreapp1.1/RockPaperScissors.pdb
+/Users/Guest/Desktop/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/netcoreapp1.1/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/netcoreapp1.1/RockPaperScissors.AssemblyInfo.cs
+/Users/Guest/Desktop/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/netcoreapp1.1/RockPaperScissors.dll
+/Users/Guest/Desktop/RockPaperScissors.Solution/RockPaperScissors/obj/Debug/netcoreapp1.1/RockPaperScissors.pdb
