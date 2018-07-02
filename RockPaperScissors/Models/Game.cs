@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace RockPaperScissors
+namespace RockPaperScissors.Models
 {
     public class Game
     {
@@ -94,21 +94,6 @@ namespace RockPaperScissors
             else if (GetPlayerTwo() == "lizard" && GetPlayerOne() == "spock") return "Player Two wins because lizard poisons spock.";
             else if (GetPlayerTwo() == "lizard" && GetPlayerOne() == "paper") return "Player Two wins because lizard eats paper.";
             else return String.Empty;
-        }
-    }
-
-    public class Program
-    {
-        public static void Main()
-        {
-            Game newGame = new Game();
-            Console.WriteLine("Player One choose a weapon. [Rock | Paper | Scissors | Lizard | Spock]");
-            newGame.SetPlayerOne(Console.ReadLine());
-            Console.WriteLine("Player Two choose a weapon. [Rock | Paper | Scissors | Lizard | Spock]");
-            newGame.SetPlayerTwo(Console.ReadLine());
-            Console.WriteLine(newGame.GetOutcome());
-            Console.WriteLine("You're going to play again right now.");
-            Main();
         }
     }
 }
